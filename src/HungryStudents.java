@@ -69,7 +69,7 @@ public class HungryStudents {
         students.add(0);
         assert NumHungryStudents(sandwiches, students) == 1;
 
-        // Test Case 4: Extra sandwiches available
+        // Test Case 4: Extra sandwiches are available
         sandwiches.clear();
         students.clear();
         sandwiches.push(1);
