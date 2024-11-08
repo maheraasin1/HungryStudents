@@ -11,7 +11,7 @@ public class HungryStudents {
     }
 
     public static int NumHungryStudents(Stack<Integer> sandwiches, LinkedList<Integer> students) {
-        int rotations = 0; // Tracks consecutive rotations without matching a sandwich
+        int rotations = 0; // Tracks the consecutive rotations without matching a sandwich
 
         // Process until all sandwiches are matched or no further matches can be made
         while (!sandwiches.isEmpty() && rotations < students.size()) {
