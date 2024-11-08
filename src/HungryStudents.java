@@ -36,7 +36,7 @@ public class HungryStudents {
         Stack<Integer> sandwiches = new Stack<>();
         LinkedList<Integer> students = new LinkedList<>();
 
-        // Test Case 1: All students get sandwiches
+        // Test Case 1: All students will get sandwiches
         sandwiches.push(0);
         sandwiches.push(1);
         sandwiches.push(0);
