@@ -1,3 +1,7 @@
+//Mahera Asin
+//Nov 08 2024 
+//Creating a program for hungry students 
+
 import java.util.Stack;
 import java.util.LinkedList;
 
